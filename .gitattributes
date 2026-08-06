@@ -1,0 +1,3 @@
+# GitHub language detection: Django templates are not plain HTML
+# Exclude them so Python is detected as the primary language.
+*.html linguist-vendored
